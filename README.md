@@ -1,14 +1,21 @@
 # Juan Mori López 
 
-Analista programador con 9+ años de experiencia en tecnologías BackEnd y FrontEnd. Busco promover e incentivar soluciones TI en los diferentes procesos de la empresa, aportando conocimiento y experiencia para el crecimiento y mejora continua de manera personal y profesional.
+## Experiencia
+Desarrollador de software Senior con 10+ años de experiencia en el sector, colaborando en proyectos e implementaciones para diversas compañias en Perú y en el extranjero.
 
-## About Me
-I have experience in cloud computing, low-code platforms, and technology communities.
-
-## Skills
-- Cloud Computing
+## Habilidades / Conocimientos
+- .NET Framework / Core
 - GitHub & Git
-- Microsoft Power Platform
+- Javascript
+- Angular 2+ y actuales
+- ReactJs
+- MongoDB
+- SQL Server
+- PostgresDB
+- MySQL
+- Python
+- Node.js
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/username) or [GitHub](https://github.com/username).
+Mi pagina de contacto y mas detalle de mis experiencias y conocimientos en https://www.linkedin.com/in/jmorilopez/
+
